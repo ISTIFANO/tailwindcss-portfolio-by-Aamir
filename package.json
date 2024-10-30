@@ -8,7 +8,7 @@
     "watch": "tailwindcss -i ./input.css -o ./css/main.css --watch"
   },
   "keywords": [],
-  "author": "",
+  "author": "Aamir el amiri",
   "license": "ISC",
   "devDependencies": {
     "tailwindcss": "^3.4.14"
